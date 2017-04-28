@@ -1,0 +1,1 @@
+#### This part contains an infographic of CUMTD data, based on analysis done in part 1.
